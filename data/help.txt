@@ -1,0 +1,3 @@
+Open or create a new database
+Use query editor to create query
+Press execute to execute the query
